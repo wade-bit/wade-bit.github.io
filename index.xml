@@ -1228,7 +1228,7 @@ test_label &amp;lt;- to_categorical(test_target)
 fit(x = train,
 y = train_label,
 epochs = 25,
-batch_size = 512, # try also 256, 512
+batch_size = 512, # try also 128 and 256
 verbose = 2,
 validation_split = 0.2)
 &lt;/code>&lt;/pre>

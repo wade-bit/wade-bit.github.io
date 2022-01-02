@@ -87,7 +87,7 @@ test_label &lt;- to_categorical(test_target)
   fit(x = train,
       y = train_label, 
       epochs = 25,
-      batch_size = 512, # try also 256, 512
+      batch_size = 512, # try also 128 and 256
       verbose = 2,
       validation_split = 0.2)
 </code></pre><p>A quick visualization of the performances shows that the algorithm is doing not too bad. No over/under-fitting. Accuracy and loss are fine.</p><pre><code class=language-r>plot(fit_covid)
