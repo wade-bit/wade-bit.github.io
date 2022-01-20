@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Olivier Gimenez</title><link>https://oliviergimenez.github.io/</link><atom:link href="https://oliviergimenez.github.io/index.xml" rel="self" type="application/rss+xml"/><description>Olivier Gimenez</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Olivier Gimenez 2022</copyright><lastBuildDate>Sun, 02 Jan 2022 00:00:00 +0000</lastBuildDate><image><url>https://oliviergimenez.github.io/img/flyfishing.jpg</url><title>Olivier Gimenez</title><link>https://oliviergimenez.github.io/</link></image><item><title>Current lab members</title><link>https://oliviergimenez.github.io/people/current/</link><pubDate>Wed, 04 Aug 2021 00:00:00 +0000</pubDate><guid>https://oliviergimenez.github.io/people/current/</guid><description>&lt;br>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Olivier Gimenez</title><link>https://oliviergimenez.github.io/</link><atom:link href="https://oliviergimenez.github.io/index.xml" rel="self" type="application/rss+xml"/><description>Olivier Gimenez</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Olivier Gimenez 2022</copyright><lastBuildDate>Thu, 20 Jan 2022 00:00:00 +0000</lastBuildDate><image><url>https://oliviergimenez.github.io/img/flyfishing.jpg</url><title>Olivier Gimenez</title><link>https://oliviergimenez.github.io/</link></image><item><title>Current lab members</title><link>https://oliviergimenez.github.io/people/current/</link><pubDate>Wed, 04 Aug 2021 00:00:00 +0000</pubDate><guid>https://oliviergimenez.github.io/people/current/</guid><description>&lt;br>
 &lt;hr>
 &lt;p>&lt;img src="https://oliviergimenez.github.io/img/maelis.jpeg" alt="">
 &lt;strong>Maëlis Kervellec&lt;/strong> (PhD 2021-2024) is developing statistical models for the analysis of camera trap data with applications in large carnivores population ecology. This is joint work with colleagues from the
@@ -10,19 +10,17 @@
 &lt;p>&lt;img src="https://oliviergimenez.github.io/img/deborah.jpg" alt="">
 &lt;strong>Deborah Coz&lt;/strong> (PhD 2021-2024) is using games and companion modelling to build social-ecological communities and enrich animal geography. She is supervised by Raphaël Mathevet.&lt;/p>
 &lt;hr>
-&lt;p>&lt;img src="https://oliviergimenez.github.io/img/maud.png" alt="">
-&lt;strong>Maud Quéroué&lt;/strong> (PhD 2018-2021) is developing multispecies demographic models to study predator-prey interactions in seabirds and competition/coexistence in passerines. This is joint work with
-&lt;a href="http://www.cebc.cnrs.fr/ecomm/Fr_ecomm/equip_CB.html" target="_blank" rel="noopener">Christophe Barbraud&lt;/a>,
-&lt;a href="http://mecadev.cnrs.fr/index.php?post/Henry-Pierre-Yves" target="_blank" rel="noopener">Pierre-Yves Henry&lt;/a> and
-&lt;a href="https://sites.google.com/site/fredbarraquand/home" target="_blank" rel="noopener">Frédéric Barraquand&lt;/a>.&lt;/p>
+&lt;p>&lt;img src="https://oliviergimenez.github.io/img/matt.jpg" alt="">
+&lt;strong>Matthew Silk&lt;/strong> (post-doc 2022-2023) is a behavioural and disease ecologist researching the links between population dynamics and social structure by developing new social network and demographic models. Matt is a MCSA research fellow.&lt;/p>
 &lt;hr>
-&lt;p>&lt;img src="https://oliviergimenez.github.io/img/oksana.png" alt="">
-&lt;strong>Oksana Grente&lt;/strong> (PhD 2018-2021) is evaluating the impact of lethal control on the French wolf population, with a special interest in social structure and livestock depredation. She will also develop an adaptive management framework based on occupancy models. This is joint work with Christophe Duchamp and Nolwenn Hoguet-Drouet from
-&lt;a href="https://ofb.gouv.fr/" target="_blank" rel="noopener">French Office of Biodiversity&lt;/a>.&lt;/p>
+&lt;p>&lt;img src="https://oliviergimenez.github.io/img/marined.jpg" alt="">
+&lt;strong>Marine Desprez&lt;/strong> (post-doc 2022) is working on machine learning methods for classification problems in ecology. This is joint work with Vincent Miele.&lt;/p>
 &lt;hr>
-&lt;p>&lt;img src="https://oliviergimenez.github.io/img/valentin.png" alt="">
-&lt;strong>Valentin Lauret&lt;/strong> (PhD 2018-2021) is developing a structured decision making approach for adaptive monitoring of cetaceans in the network of marine protected areas in the French Mediterranean Sea. This is joint work with Hélène Labach from
-&lt;a href="https://www.gis3m.org/" target="_blank" rel="noopener">GIS3M&lt;/a>.&lt;/p>
+&lt;p>&lt;img src="https://oliviergimenez.github.io/img/javi.png" alt="">
+&lt;strong>Javi Fernández-López&lt;/strong> (post-doc 2022-2023) is interested in conservation biology and phylogeography. He is modelling the distribution of mammals in Europe by integrating various sources of data. Check out his website &lt;a href="https://allthiswasfield.blogspot.com">https://allthiswasfield.blogspot.com&lt;/a>.&lt;/p>
+&lt;hr>
+&lt;p>&lt;img src="https://oliviergimenez.github.io/img/juju2.png" alt="">
+&lt;strong>Julie Louvrier&lt;/strong> (post-doc 2022) is an ecologist with strong quantitative skills. She is studying the interactions between large carnivores using occupancy models.&lt;/p>
 &lt;hr>
 &lt;p>&lt;img src="https://oliviergimenez.github.io/img/monia.jpg" alt="">
 &lt;strong>Mónia Nakamura Mercier Real&lt;/strong> (PhD 2019-2024) is investigating the impacts of anthropogenic factors on large carnivores persistence in human-dominated landscapes. She uses wolf in Spain and Portugal as a model species to address how different humanization levels can influence habitat selection and land use, and ultimately affect its demography, status and viability. The thesis is co-supervised with
@@ -35,11 +33,25 @@
 &lt;a href="https://institute.sandiegozoo.org/staff/nicholas-pilfold-phd" target="_blank" rel="noopener">Nicholas Pilfold&lt;/a> and
 &lt;a href="https://www.cefe.cnrs.fr/fr/actus/44-french/recherche/bc/bev/291-aurelien-besnard" target="_blank" rel="noopener">Aurélien Besnard&lt;/a>.&lt;/p>
 &lt;hr>
-&lt;p>&lt;img src="https://oliviergimenez.github.io/img/patricia.jpg" alt=""> &lt;strong>Patrícia Rodrigues&lt;/strong> (post-doc 2021) seeks to better understand the complexity associated with human-wildlife interactions in the subsistence landscapes of Ethiopia&amp;rsquo;s highlands. More
+&lt;p>&lt;img src="https://oliviergimenez.github.io/img/patricia.jpg" alt=""> &lt;strong>Patrícia Rodrigues&lt;/strong> (post-doc 2021-2023) is interested in the social-ecological dynamics underpinning environmental problems in Africa. Her current project aims to characterize landscapes within Africa’s Great Green Wall in terms of their social-ecological properties and restoration initiatives. More
 &lt;a href="https://rodriguespatri.wixsite.com/home" target="_blank" rel="noopener">here&lt;/a>.&lt;/p>
 &lt;hr>
 &lt;p>&lt;img src="https://oliviergimenez.github.io/img/alix.jpg" alt="">
-&lt;strong>Alix Cosquer&lt;/strong> (post-doc 2019-2021) is an environmental psychologist. She is studying how to favor connections between nature and children using educative marine areas.&lt;/p></description></item><item><title>Former lab members</title><link>https://oliviergimenez.github.io/people/alumni/</link><pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate><guid>https://oliviergimenez.github.io/people/alumni/</guid><description>&lt;br>
+&lt;strong>Alix Cosquer&lt;/strong> (post-doc 2019-2022) is an environmental psychologist. She is studying how to favor connections between nature and children using educative marine areas. Her ongoing research project is on children&amp;rsquo;s relationships with nature in schools.&lt;/p></description></item><item><title>Former lab members</title><link>https://oliviergimenez.github.io/people/alumni/</link><pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate><guid>https://oliviergimenez.github.io/people/alumni/</guid><description>&lt;br>
+&lt;hr>
+&lt;p>&lt;img src="https://oliviergimenez.github.io/img/maud.png" alt="">
+&lt;strong>Maud Quéroué&lt;/strong> (PhD 2018-2021) developed multispecies demographic models to study predator-prey interactions in seabirds and competition/coexistence in passerines. This was joint work with
+&lt;a href="http://www.cebc.cnrs.fr/ecomm/Fr_ecomm/equip_CB.html" target="_blank" rel="noopener">Christophe Barbraud&lt;/a>,
+&lt;a href="http://mecadev.cnrs.fr/index.php?post/Henry-Pierre-Yves" target="_blank" rel="noopener">Pierre-Yves Henry&lt;/a> and
+&lt;a href="https://sites.google.com/site/fredbarraquand/home" target="_blank" rel="noopener">Frédéric Barraquand&lt;/a>. Maud is now a post-doc with Aurélien Besnard.&lt;/p>
+&lt;hr>
+&lt;p>&lt;img src="https://oliviergimenez.github.io/img/oksana.png" alt="">
+&lt;strong>Oksana Grente&lt;/strong> (PhD 2018-2021) evaluated the impact of lethal control on the French wolf population, with a special interest in social structure and livestock depredation. This was joint work with Sarah Bauduin, Christophe Duchamp and Nolwenn Hoguet-Drouet from
+&lt;a href="https://ofb.gouv.fr/" target="_blank" rel="noopener">French Office of Biodiversity&lt;/a>. Oksana is now a post-doc with Aurélien Besnard.&lt;/p>
+&lt;hr>
+&lt;p>&lt;img src="https://oliviergimenez.github.io/img/valentin.png" alt="">
+&lt;strong>Valentin Lauret&lt;/strong> (PhD 2018-2021) developed integrated models for monitoring of bottlenose dolphins in the network of marine protected areas in the French Mediterranean Sea. This was joint work with Hélène Labach from the
+&lt;a href="https://www.facebook.com/miraceticetaces/" target="_blank" rel="noopener">MIRACETI&lt;/a> NGO. Valentin is now a post-doc with Aurélien Besnard.&lt;/p>
 &lt;hr>
 &lt;p>&lt;img src="https://oliviergimenez.github.io/img/helene.jpg" alt="">
 &lt;strong>Hélène Labach&lt;/strong> (PhD 2017-2021) from
@@ -49,8 +61,7 @@
 &lt;hr>
 &lt;p>&lt;img src="https://oliviergimenez.github.io/img/nina.jpg" alt="">
 &lt;strong>Nina Santostasi&lt;/strong> (PhD 2016-2019) developed capture-recapture and demographic models
-for studying hybridization in the wild. As case studies, she considered dolphins in the Gulf of
-Corinth in Greece (with Giovanni Bearzi and Silvia Bonizzoni from
+for studying hybridization in the wild. As case studies, she considered dolphins in the Gulf of Corinth in Greece (with Giovanni Bearzi and Silvia Bonizzoni from
 &lt;a href="http://www.dolphinbiology.org/" target="_blank" rel="noopener">Dolphin Biology and
 Conservation&lt;/a>) and wolves in Italy (with
 &lt;a href="https://www.researchgate.net/profile/Paolo_Ciucci" target="_blank" rel="noopener">Paolo
@@ -60,20 +71,18 @@ La Sapienza). Nina is now a post-doc with Paolo Ciucci working on estimating pop
 &lt;hr>
 &lt;p>&lt;img src="https://oliviergimenez.github.io/img/SarahBauduin.jpg" alt="">
 &lt;strong>Sarah Bauduin&lt;/strong> (post-doc 2018-2019) built spatially-explicit agent-based models
-to assess the viability of Eurasian lynx in France, and more broadly to study multispecies demography.
-Sarah is now a
+to assess the viability of Eurasian lynx in France, and more broadly to study multispecies demography. Sarah is now a
 &lt;a href="https://www.sarahbauduin.fr/" target="_blank" rel="noopener">permanent researcher with the French Office of Biodiversity&lt;/a>.&lt;/p>
 &lt;br>
 &lt;hr>
 &lt;p>&lt;img src="https://oliviergimenez.github.io/img/gilles.jpg" alt="">
 &lt;strong>Gilles Maurer&lt;/strong> (PhD 2015-2018, post-doc 2018-2020) studied the interactions between wild and semi-captive pools of Asian elephants with an interdisciplinary framework (demography, economy, anthropology, population genetics). This was joint work with Baptiste Mulot at
-&lt;a href="http://www.beauvalnature.com/en/" target="_blank" rel="noopener">Beauval Nature&lt;/a>, Finn Kjellberg and Nicolas Lescureux from CEFE. Gilles is now permanent researcher at Beauval Nature, hosted at CEFE.&lt;/p>
+&lt;a href="http://www.beauvalnature.com/en/" target="_blank" rel="noopener">Beauval Nature&lt;/a>, Finn Kjellberg and Nicolas Lescureux from CEFE. Gilles is now a permanent researcher at Beauval Nature, hosted at CEFE.&lt;/p>
 &lt;br>
 &lt;hr>
 &lt;p>&lt;img src="https://oliviergimenez.github.io/img/lorena.jpg" alt="">
 &lt;strong>Lorena Mansilla&lt;/strong> (PhD 2016-2019) developed capture-recapture and demographic models
-for social species with wolves, dolphins and elephant seals as case studies. She used spatially-explicit
-capture-recapture models, social networks, cluster analyses and integrated population models (her thesis was co-supervised with Roger Pradel).&lt;/p>
+for social species with wolves, dolphins and elephant seals as case studies. She used spatially-explicit capture-recapture models, social networks, cluster analyses and integrated population models (her thesis was co-supervised with Roger Pradel).&lt;/p>
 &lt;br>
 &lt;hr>
 &lt;p>&lt;img src="https://oliviergimenez.github.io/img/vincenzo.png" alt="">
@@ -199,7 +208,8 @@ biodiversity patterns at large scale and worked in conservation biogeography
 &lt;ol>
 &lt;li>
 &lt;p>&lt;strong>Gimenez O.&lt;/strong>, M. Kervellec, J.-B. Fanjul, A. Chaine, L. Marescot, Y. Bollet, C. Duchamp (2021)
-&lt;a href="https://arxiv.org/abs/2108.11509" target="_blank" rel="noopener">Trade-off between deep learning for species identification and inference about predator-prey co-occurrence: Reproducible R workflow integrating models in computer vision and ecological statistics&lt;/a> arXiv preprint.&lt;/p>
+&lt;a href="https://arxiv.org/abs/2108.11509" target="_blank" rel="noopener">Trade-off between deep learning for species identification and inference about predator-prey co-occurrence: Reproducible R workflow integrating models in computer vision and ecological statistics&lt;/a> arXiv preprint. Data and code
+&lt;a href="https://github.com/oliviergimenez/computo-deeplearning-occupany-lynx" target="_blank" rel="noopener">here&lt;/a>.&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>Grente O., T. Saubusse, &lt;strong>Gimenez O.&lt;/strong>, E. Marboutin, C. Duchamp (2020).
@@ -214,9 +224,12 @@ biodiversity patterns at large scale and worked in conservation biogeography
 &lt;a href="https://www.biorxiv.org/content/10.1101/2021.02.01.429097v1" target="_blank" rel="noopener">Spatial integrated models foster complementarity between monitoring programs in producing large-scale ecological indicators.&lt;/a> bioRxiv preprint.&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Gimenez O., M. Kervellec, J.-B. Fanjul, A. Chaine, L. Marescot, Y. Bollet, C. Duchamp (2021).
-&lt;a href="https://arxiv.org/abs/2108.11509" target="_blank" rel="noopener">Trade-off between deep learning for species identification and inference about predator-prey co-occurrence: Reproducible R workflow integrating models in computer vision and ecological statistics.&lt;/a> arXiv preprint, data and code
-&lt;a href="https://github.com/oliviergimenez/computo-deeplearning-occupany-lynx" target="_blank" rel="noopener">here&lt;/a>.&lt;/p>
+&lt;p>Bauduin S., Germain E., Zimmermann F., Idelberger S., Herdtfelder M., Heurich M., Kramer-Schadt S., Duchamp C., Drouet-Hoguet N., Morand A., Blanc L., Charbonnel A., &lt;strong>Gimenez O.&lt;/strong> (2022).
+&lt;a href="https://www.biorxiv.org/content/10.1101/2021.10.22.465393v2" target="_blank" rel="noopener">Eurasian lynx populations in Western Europe: What prospects for the next 50 years?&lt;/a> bioRxiv preprint.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Vanpé C., B. Piédallu, P.-Y. Quenette, J. Sentilles, G. Queney, S. Palazón, I. A. Jordana, R. Jato, M. M. Elósegui Irurtia, J. Solà de la Torre, &lt;strong>O. Gimenez&lt;/strong> (2022).
+&lt;a href="https://www.biorxiv.org/content/10.1101/2021.12.08.471719v1" target="_blank" rel="noopener">Estimating abundance of a recovering transboundary brown bear population with capture-recapture models&lt;/a> bioRxiv preprint.&lt;/p>
 &lt;/li>
 &lt;/ol>
 &lt;hr>
